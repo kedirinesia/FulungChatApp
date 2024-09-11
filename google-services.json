@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "647681195084",
+    "project_id": "fulung-chatting-app",
+    "storage_bucket": "fulung-chatting-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647681195084:android:f145e48e5ed0345016c8e9",
+        "android_client_info": {
+          "package_name": "com.example.fulungwhatsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdq7L36kC9agqXWxPnlR-S-8FerE4IuYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
